@@ -1,7 +1,3 @@
-# Name: Taelr Eason
-# Student ID: 011174893
-# C950 Data Structures and Algorithms 2
-
 import csv
 import datetime
 
